@@ -8,7 +8,7 @@ The Cricket Score Predictor Web Application is a data-driven application that pr
 - Achieved an outstanding R2 score of 0.98 and a minimal MAE (Mean Absolute Error) of 2.11 by fine-tuning the XGBoost algorithm.
 
 # Automation and Data Collection
-One of the notable features of this project is the automation of data collection. We have streamlined the process of gathering cricket-related data, ensuring that the model is always trained on the most up-to-date information. This automation enhances the accuracy of score predictions and minimizes manual data handling.
+One of the notable features of this project is the automation of data collection. I have streamlined the process of gathering cricket-related data, ensuring that the model is always trained on the most up-to-date information. This automation enhances the accuracy of score predictions and minimizes manual data handling.
 
 # Machine Learning Model
 The core of the Cricket Score Predictor is its machine learning model, powered by the XGBoost algorithm. Key aspects of the model development include:
