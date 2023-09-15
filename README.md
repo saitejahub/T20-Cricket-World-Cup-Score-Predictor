@@ -13,8 +13,8 @@ One of the notable features of this project is the automation of data collection
 # Machine Learning Model
 The core of the Cricket Score Predictor is its machine learning model, powered by the XGBoost algorithm. Key aspects of the model development include:
 
-**Data Preprocessing**: Cleaning and transforming cricket-related data for training and testing.
-**Model Tuning**: Fine-tuning hyperparameters to optimize model performance.
+# **Data Preprocessing**: Cleaning and transforming cricket-related data for training and testing.
+# **Model Tuning**: Fine-tuning hyperparameters to optimize model performance.
 **Evaluation Metrics**: Assessing the model's performance using metrics such as R2 score and MAE.
 **Outstanding R2 Score**: Our model has achieved an impressive R2 score of 0.98, indicating its high predictive accuracy.
 **Minimal MAE**: The minimal Mean Absolute Error of 2.11 further demonstrates the precision of our score predictions.
