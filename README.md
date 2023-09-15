@@ -1,7 +1,7 @@
 # Cricket Score Predictor Web Application
 
 # Project Overview
-The Cricket Score Predictor Web Application is a data-driven application that predicts cricket scores using advanced machine learning techniques. This project showcases skills in data analysis, machine learning, and automation for data collection and model deployment.
+The Cricket Score Predictor Web Application is a data-driven application that predicts cricket scores using machine learning techniques. This project showcases skills in data analysis, machine learning, and automation for data collection and model deployment.
 
 # Key Highlights
 - Implemented automation for data collection and model deployment in the Cricket Score Predictor Web Application, highlighting automation skills.
